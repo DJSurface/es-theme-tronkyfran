@@ -60,7 +60,7 @@ license:		creative commons CC-BY-NC-SA
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 0.16</size>
-      <path>./art/darkest.png</path>
+      <path>./art/darkestx.png</path>
     </image>
     <image name="footer" extra="true">
       <pos>0 1</pos>
@@ -68,11 +68,11 @@ license:		creative commons CC-BY-NC-SA
       <size>1 0.065</size>
       <path>./art/darkest.png</path>
     </image>
-    <image name="background">
+    <image name="md_fanart">
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
-      <path>./art/black.png</path>
+      <color>404040</color>
     </image>
     <textlist name="gamelist">
       <selectorColor>151515</selectorColor>

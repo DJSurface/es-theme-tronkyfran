@@ -2,7 +2,7 @@
 
 ![Arcade banner](mame/art/mame_art_blur.jpg)
 
-Theme `tronkyfran` and variations for use with [EmulationStation](http://www.emulationstation.org/).
+Theme `tronkyfran` and variations with fanart modifications for use with [EmulationStation](http://www.emulationstation.org/) fork https://github.com/DJSurface/EmulationStation
 
 ## Variations
 
@@ -13,10 +13,10 @@ This theme is available in 4 variations:
 3. [`tronkyfran-dark`][3]: dark + full sized images (suitable for **desktops**)
 4. [`tronkyfran-dark-optimized`][4]: dark + optimized images (suitable for **Retropie Pi3**)
 
-[1]: https://github.com/HerbFargus/es-theme-tronkyfran
-[2]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/optimized
-[3]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark
-[4]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark-optimized
+[1]: https://github.com/DJSurface/es-theme-tronkyfran
+[2]: https://github.com/DJSurface/es-theme-tronkyfran/tree/optimized
+[3]: https://github.com/DJSurface/es-theme-tronkyfran/tree/dark
+[4]: https://github.com/DJSurface/es-theme-tronkyfran/tree/dark-optimized
 
 ## Install `tronkyfran-dark`
 
@@ -27,7 +27,7 @@ This theme is available in 4 variations:
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/HerbFargus/es-theme-tronkyfran.git --branch dark --single-branch tronkyfran-dark
+       git clone https://github.com/DJSurface/es-theme-tronkyfran.git --branch dark --single-branch tronkyfran-dark
 
 ### Update
 
