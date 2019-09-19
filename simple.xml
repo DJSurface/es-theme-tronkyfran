@@ -68,6 +68,9 @@ license:		creative commons CC-BY-NC-SA
       <size>1 0.065</size>
       <path>./art/darkest.png</path>
     </image>
+    <image name="background">
+		<path>./art/black.png</path>
+    </image>
     <image name="md_fanart">
       <pos>0 0</pos>
       <origin>0 0</origin>
