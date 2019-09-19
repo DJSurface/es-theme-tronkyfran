@@ -68,10 +68,13 @@ license:		creative commons CC-BY-NC-SA
       <path>./art/bright.png</path>
     </image>
     <image name="background">
+      <path>./art/mid.png</path>
+    </image>
+    <image name="md_fanart">
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
-      <path>./art/mid.png</path>
+      <color>FFFFFF20</color>
     </image>
     <textlist name="gamelist">
       <selectorColor>393a3b</selectorColor>
